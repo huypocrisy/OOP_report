@@ -1,5 +1,5 @@
 # OOP_report
-Dự án để giải quyết một vấn đề thực tế: tạo một báo cáo hàng ngày để theo dõi việc sử dụng các máy
+Hướng dẫn thực hiện
 Dự án để giải quyết một vấn đề thực tế: tạo một báo cáo hàng ngày để theo dõi việc sử dụng các máy. Dưới đây là tổng kết lại quá trình cụ thể, bao gồm từng bước cần thực hiện, ý nghĩa của nó và lý do tại sao nó quan trọng.
 1. Giới thiệu đề tài dự án:
 •	Cần làm gì: Định nghĩa và giới thiệu vấn đề cần giải quyết, trong trường hợp này là tạo một báo cáo hàng ngày để theo dõi việc sử dụng các máy.
